@@ -7,9 +7,9 @@ permalink:        pretty
 
 # Setup
 title:            Julian Frattini
-tagline:          'Personal Website'
+tagline:          'Ph.D. Student at the Blekinge Institute of Technology'
 description:      'Ph.D. Student at the <a href="https://www.bth.se/eng/" target="_blank">Blekinge Institute of Technology</a>'
-url:              https://julianfrattini.github.io/
+url:              https://julianfrattini.github.io
 baseurl:          /
 
 author:
