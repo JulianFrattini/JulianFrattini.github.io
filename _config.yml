@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            Julian Frattini
 tagline:          'Personal Website'
-description:      'Ph.D. Student at the <a href="https://www.bth.se/eng/" target="_blank">Blekinge Institute of Technology</a> conducting Empirical Research on Requirements Quality.'
-url:              http://hyde.getpoole.com
+description:      'Ph.D. Student at the <a href="https://www.bth.se/eng/" target="_blank">Blekinge Institute of Technology</a>'
+url:              https://julianfrattini.github.io/
 baseurl:          /
 
 author:
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/JulianFrattini/JulianFrattini.github.io
