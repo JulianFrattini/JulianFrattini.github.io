@@ -8,13 +8,19 @@ permalink:        pretty
 # Setup
 title:            Julian Frattini
 tagline:          'Ph.D. Student at the Blekinge Institute of Technology'
-description:      'Ph.D. Student at the <a href="https://www.bth.se/eng/" target="_blank">Blekinge Institute of Technology</a>'
+description:      'Ph.D. Student at the <a href="https://www.bth.se/eng/" target="_blank">Blekinge Institute of Technology, Sweden</a>'
 url:              https://julianfrattini.github.io
 baseurl:          /
 
 author:
   name:           'Julian Frattini'
-  url:            https://x.com/frattinij1
+  url:            https://x.com/frattinij1'
+  twitter:        https://x.com/frattinij1'
+  linkedin:       https://www.linkedin.com/in/julian-frattini-88993a258/
+  github:         https://github.com/JulianFrattini
+  orcid:          https://orcid.org/0000-0003-3995-6125
+  scholar:        https://scholar.google.de/citations?user=wsw2NTMAAAAJ&hl=en
+  dblp:           https://dblp.org/pid/277/1517.html
 
 paginate:         5
 
