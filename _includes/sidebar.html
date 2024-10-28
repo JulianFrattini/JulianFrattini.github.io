@@ -1,5 +1,6 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
+    <img src="me.jpg" alt="Profile picture of Julian Frattini"></img>
     <div class="sidebar-about">
       <h1>
         <a href="{{ site.url }}">
@@ -21,8 +22,10 @@
       {% for node in pages_list %}
       {% if node.title != null %}
       {% if node.layout == "page" %}
+      {% if node.title != "Home"}
       <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
         }}</a>
+      {% endif %}
       {% endif %}
       {% endif %}
       {% endfor %}
@@ -32,6 +35,7 @@
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span> -->
     </nav>
 
+    <!-- horizontal list of icons forwarding to other platforms -->
     <div class="icon-list">
       <span class="icon-item">
         <a href="{{ site.author.twitter }}" target='_blank'>
