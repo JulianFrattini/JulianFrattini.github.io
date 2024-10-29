@@ -1,0 +1,11 @@
+{
+    "name": "Ruby and Jekyll Environment",
+    "image": "ghcr.io/julianfrattini/julianfrattini.github.io-dev:latest",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python"
+            ]
+        }
+    }
+}
