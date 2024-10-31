@@ -35,3 +35,7 @@
 .pub-authors {
     font-style: italic;
 }
+
+.pub-list {
+    font-size: 0.85rem;
+}
