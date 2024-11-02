@@ -1,6 +1,17 @@
+.img-container {
+    display: flex;
+}
+
 .img-profile {
     border-radius: 50%;
+    max-width: 30%;
 }
+
+@media (min-height: 1200px) {
+    .img-profile {
+        max-width: 100%;
+    }
+  }
 
 .icon-list {
     display: flex;
