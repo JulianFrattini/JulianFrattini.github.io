@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/github/license/JulianFrattini/JulianFrattini.github.io)](./LICENSE)
 
 This repository contains the code for a personal website built with the [Jekyll framework](http://jekyllrb.com/) using the [Hyde theme](https://github.com/poole/hyde).
-s
+
 ## Usage and Development
 
 The [GitHub actions](.github/workflows/jekyll-docker.yml) are set up in a way that the content of this repository will be hosted via GitHub pages directly.
