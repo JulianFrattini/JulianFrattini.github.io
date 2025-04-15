@@ -262,6 +262,10 @@ tbody tr:nth-child(odd) th {
   font-size: 1.25rem;
   font-weight: 300;
 }
+.sidelead {
+  font-size: 0.8rem;
+  font-weight: 300;
+}
 
 
 /*

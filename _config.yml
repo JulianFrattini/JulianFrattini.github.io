@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Julian Frattini
-tagline:          'Postdoc at Chalmers'
-description:      'Postdoctoral Researcher at the <a href="https://www.chalmers.se/en/departments/cse/our-research/interaction-design-and-software-engineering/" target="_blank">Chalmers University of Technology, Sweden</a>'
+tagline:          'Postdoc at Chalmers | GU'
+description:      'Postdoctoral Researcher at the <a href="https://www.chalmers.se/en/departments/cse/our-research/interaction-design-and-software-engineering/" target="_blank">Chalmers University of Technology</a> and <a href="https://www.gu.se/en/computer-science-engineering" target="_blank">Gothenburg University</a>, Sweden'
 url:              https://julianfrattini.github.io
 baseurl:          /
 
