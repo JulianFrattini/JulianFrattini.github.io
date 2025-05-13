@@ -50,3 +50,55 @@
 .pub-list {
     font-size: 0.85rem;
 }
+
+
+.tilebox {
+    display: flex;
+    flex-flow: row wrap;
+    /*justify-content: space-between;*/
+    padding-bottom: 15px;
+}
+
+.tilebox > a {
+    color: #202020;
+}
+
+.tile {
+    padding: 5px;
+    margin: 5px;
+
+    outline: 1px solid;
+    border-radius: 5px;
+    
+    text-align: center;
+    height: 150px;
+    width: 180px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.tile:hover {
+    box-shadow: 0 0 15px 5px rgba(105, 105, 105, 0.6);
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.tile > h3 {
+    font-style: bold;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.tile > span {
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+}
+
+.tile-icon {
+    height: 30px;
+    width: 30px;
+}
