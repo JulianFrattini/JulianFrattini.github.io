@@ -1,6 +1,6 @@
 # Personal Website
 
-[![GitHub](https://img.shields.io/github/license/JulianFrattini/JulianFrattini.github.io)](./LICENSE)
+[![GitHub](https://img.shields.io/github/license/JulianFrattini/JulianFrattini.github.io/LICENSE.md)](./LICENSE)
 
 This repository contains the code for a personal website built with the [Jekyll framework](http://jekyllrb.com/) using the [Hyde theme](https://github.com/poole/hyde).
 
