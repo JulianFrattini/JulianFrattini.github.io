@@ -39,3 +39,6 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+
+# Personal Claude Code preferences (not team-shared)
+CLAUDE.local.md
